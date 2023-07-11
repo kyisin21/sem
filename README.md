@@ -5,4 +5,4 @@
 [![Releases](https://img.shields.io/github/release/kyisin21/sem/all.svg?style=flat-square)](https://github.com/kyisin21/sem/releases)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/kyisin21/sem/.github%2Fworkflows/<action name taken from main.yml>/<branch>?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/kyisin21/sem/main.yml>/<branch>?style=flat-square)
